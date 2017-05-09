@@ -1,0 +1,252 @@
+Num,COUNTRY,Region(C),zhibiao1,zhibiao2
+1,Aruba,阿鲁巴（荷兰）,14,289
+2,Antigua and Barbuda,安提瓜和巴布达,178,347
+3,United Arab Emirates,阿联酋,169,10
+4,Afghanistan,阿富汗,324,52
+5,Algeria,阿尔及利亚,206,298
+6,Azerbaijan,阿塞拜疆,157,43
+7,Albania,阿尔巴尼亚,341,284
+8,Armenia,亚美尼亚,325,88
+9,Andorra,安道尔,377,138
+10,Angola,安哥拉,286,392
+11,American Samoa,美属萨摩亚（美国）,377,374
+12,Argentina,阿根廷,166,394
+13,Australia,澳大利亚,151,305
+14,Austria,奥地利,20,240
+15,Anguilla,安圭拉?(英国),415,238
+16,Bahrain,巴林,293,229
+17,Barbados,巴巴多斯,87,39
+18,Botswana,博茨瓦纳,105,230
+19,Bermuda,百慕大（英国）,376,489
+20,Belgium,比利时,181,285
+21,Bahamas,巴哈马,304,339
+22,Bangladesh,孟加拉国,38,86
+23,Belize,伯利兹,392,23
+24,Bosnia and Herzegovina,波黑,359,13
+25,Bolivia,玻利维亚,298,329
+26,Myanmar,缅甸,141,42
+27,Benin,贝宁,278,268
+28,Belarus,白俄罗斯,302,71
+29,Solomon Islands,所罗门群岛,96,391
+30,Navassa Island,纳弗沙岛,203,397
+31,Brazil,巴西,421,187
+32,Bhutan,不丹,375,360
+33,Bulgaria,保加利亚,433,23
+34,Bouvet Island,布韦岛,74,141
+35,Brunei Darussalam,文莱,8,278
+36,Burundi,布隆迪,481,73
+37,Cambodia,柬埔寨,367,400
+38,Chad,乍得,390,202
+39,Sri Lanka,斯里兰卡,477,66
+40,Congo,刚果,85,1
+41,"Congo, The Democratic Republic of the",刚果（金）,104,473
+42,China,中国,464,357
+43,Chile,智利,36,14
+44,Cayman Islands,开曼群岛（英国）,432,187
+45,Cocos (Keeling) Islands,科科斯(基林)群岛（澳大利亚）,346,338
+46,Cameroon,喀麦隆,145,314
+47,Comoros,科摩罗,79,250
+48,Colombia,哥伦比亚,161,423
+49,Northern Mariana Islands,北马里亚纳群岛（美国）,497,460
+50,Costa Rica,哥斯达黎加,222,81
+51,Central African Republic,中非共和国,182,441
+52,Cuba,古巴,213,221
+53,Cape Verde,佛得角,408,57
+54,Cook Islands,库克群岛（新西兰）,159,239
+55,Cyprus,塞浦路斯,413,354
+56,Czech Republic,捷克,152,138
+57,Denmark,丹麦,215,433
+58,Djibouti,吉布提,131,146
+59,Dominica,多米尼克,249,474
+60,Jarvis Island,贾维斯岛,311,247
+61,Dominican Republic,多米尼加,81,431
+62,Ecuador,厄瓜多尔,150,463
+63,Egypt,埃及,108,152
+64,Ireland,爱尔兰,456,86
+65,Equatorial Guinea,赤道几内亚,194,24
+66,Estonia,爱沙尼亚,401,235
+67,Eritrea,厄立特里亚,20,469
+68,El Salvador,萨尔瓦多,178,243
+69,Ethiopia,埃塞俄比亚,365,458
+70,French Guiana, 法属圭亚那,496,315
+71,Finland,芬兰,214,233
+72,Fiji,斐济,264,71
+73,Falkland Islands (Malvinas),福克兰群岛,197,0
+74,"Micronesia, Federated States of",密克罗尼西亚联邦,448,374
+75,Faroe Islands,法罗群岛（丹麦）,39,84
+76,French Polynesia,法属波利尼西亚（法国）,266,342
+77,Baker Island,贝克岛,147,315
+78,France,法国,122,275
+79,French Southern Territories,法国南部地区,197,215
+80,Gambia,冈比亚,83,441
+81,Gabon,加蓬,81,67
+82,Georgia,格鲁吉亚,55,340
+83,Ghana,加纳,241,161
+84,Gibraltar,直布罗陀（英国）,178,302
+85,Grenada,格林纳达,196,59
+86,Guernsey,根西岛（英国）,375,440
+87,Greenland,格陵兰（丹麦）,389,336
+88,Germany,德国,141,229
+89,Guadeloupe,法属瓜德罗普岛,152,393
+90,Guam,关岛（美国）,211,242
+91,Greece,希腊,316,174
+92,Guatemala,危地马拉,469,215
+93,Guinea,几内亚,390,465
+94,Guyana,圭亚那,63,27
+95,Gaza Strip,加沙地带,114,147
+96,Haiti,海地,95,40
+97,"Hong Kong, SAR of China",中国香港,332,32
+98,Heard Island and Mcdonald Islands,赫德岛和麦克唐纳群岛,350,293
+99,Honduras,洪都拉斯,13,315
+100,Howland Island,豪兰岛,119,276
+101,Croatia,克罗地亚,405,106
+102,Hungary,匈牙利,266,96
+103,Iceland,冰岛,465,131
+104,Indonesia,印尼,460,126
+105,"Man, Isle of",马恩岛（英）,342,182
+106,India,印度,159,216
+107,British Indian Ocean Territory,英属印度洋领地（英国）,293,411
+108,Clipperton Island,克利珀顿岛,72,94
+109,"Iran, Islamic Republic of",伊朗,374,5
+110,Israel,以色列,159,358
+111,Italy,意大利,365,129
+112,C_te d'Ivoire,科特迪瓦,1,72
+113,Iraq,伊拉克,217,236
+114,Japan,日本,452,32
+115,Jersey,泽西岛（英国）,382,304
+116,Jamaica,牙买加,343,193
+117,Jan Mayen,扬马延岛,381,398
+118,Jordan,约旦,430,4
+119,Johnston Atoll,约翰斯顿岛,428,83
+120,Kenya,肯尼亚,420,7
+121,Kyrgyzstan,吉尔吉斯斯坦,162,116
+122,"Korea, Democratic People's Republic of",朝鲜,348,281
+123,Kiribati,基里巴斯,420,498
+124,"Korea, Republic of",韩国,112,78
+125,Christmas Island,圣诞岛,384,73
+126,Kuwait,科威特,368,444
+127,Kazakstan,哈萨克斯坦,168,193
+128,Lao People's Democratic Republic,老挝,83,454
+129,Lebanon,黎巴嫩,176,392
+130,Latvia,拉脱维亚,60,262
+131,Lithuania,立陶宛,497,498
+132,Liberia,利比里亚,407,242
+133,Slovakia,斯洛伐克,142,221
+134,Palmyra Atoll,巴尔米拉环礁,90,102
+135,Liechtenstein,列支敦士登,321,369
+136,Lesotho,莱索托,2,38
+137,Luxembourg,卢森堡,0,121
+138,Libyan Arab Jamahiriya,利比亚,17,317
+139,Madagascar,马达加斯加,418,389
+140,Martinique,马提尼克岛,343,159
+141,"Macau, SAR of China",澳门,167,130
+142,"Moldova, Republic of",摩尔多瓦,324,203
+143,Mayotte,马约特（法国）,458,320
+144,Mongolia,蒙古国,166,65
+145,Montserrat,蒙特塞拉特岛（英国）,222,280
+146,Malawi,马拉维,345,461
+147,"Macedonia, The Former Yugoslav Republic of",马其顿,42,150
+148,Mali,马里,329,220
+149,Monaco,摩纳哥,374,178
+150,Morocco,摩洛哥,305,221
+151,Mauritius,毛里求斯,17,491
+152,Midway Islands,中途岛,427,32
+153,Mauritania,毛里塔尼亚,248,345
+154,Malta,马耳他,254,321
+155,Oman,阿曼,67,349
+156,Maldives,马尔代夫,335,223
+157,Montenegro,黑山,387,333
+158,Mexico,墨西哥,446,450
+159,Malaysia,马来西亚,314,412
+160,Mozambique,莫桑比克,397,130
+161,New Caledonia,新喀里多尼亚（法国）,44,413
+162,Norfolk Island,诺福克岛（澳大利亚）,7,3
+163,Niger,尼日尔,166,92
+164,Vanuatu,瓦努阿图,42,31
+165,Nigeria,尼日利亚,473,36
+166,Netherlands,荷兰,115,202
+167,Norway,挪威,351,33
+168,Nepal,尼泊尔,326,163
+169,Nauru,瑙鲁,68,431
+170,Suriname,苏里南,125,24
+171,Netherlands Antilles,安德列斯群岛（荷）,322,366
+172,Nicaragua,尼加拉瓜,339,24
+173,New Zealand,新西兰,200,286
+174,Paraguay,巴拉圭,188,306
+175,Pitcairn Islands,皮特凯恩群岛（英国）,496,157
+176,Peru,秘鲁,325,395
+177,Paracel Islands,西沙群岛,400,329
+178,Spratly Islands,南沙群岛,244,410
+179,Pakistan,巴基斯坦,293,492
+180,Poland,波兰,368,394
+181,Panama,巴拿马,401,80
+182,Portugal,葡萄牙,122,384
+183,Papua New Guinea,巴布亚新几内亚,326,428
+184,Palau,帕劳,289,56
+185,Guinea-Bissau,几内亚比绍,34,194
+186,Qatar,卡塔尔,491,45
+187,R_union,留尼汪岛,336,375
+188,Marshall Islands,马绍尔群岛,197,384
+189,Romania,罗马尼亚,347,68
+190,Philippines,菲律宾,439,132
+191,Puerto Rico,波多黎各（美国）,279,304
+192,Russian Federation,俄罗斯,301,271
+193,Rwanda,卢旺达,11,271
+194,Saudi Arabia,沙特阿拉伯,67,251
+195,Saint Pierre and Miquelon,圣皮埃尔和密克隆群岛（法国）,136,193
+196,Saint Kitts and Nevis,圣基茨与尼维斯联邦,59,448
+197,Seychelles,塞舌尔,196,205
+198,South Africa,南非,53,408
+199,Senegal,塞内加尔,152,168
+200,Saint Helena,圣赫勒拿岛（英国）,402,318
+201,Slovenia,斯洛文尼亚,55,185
+202,Sierra Leone,塞拉利昂,261,49
+203,San Marino,圣马利诺,125,198
+204,Singapore,新加坡,165,218
+205,Somalia,索马里,390,206
+206,Spain,西班牙,8,262
+207,Serbia,塞尔维亚,164,251
+208,Saint Lucia,圣卢西亚,273,383
+209,Sudan,苏丹,407,27
+210,Svalbard,斯瓦尔巴群岛（挪威）,136,290
+211,Sweden,瑞典,245,151
+212,South Georgia and the South Sandwich Islands,南乔治亚岛与南桑威奇群岛,286,242
+213,Syrian Arab Republic,叙利亚,85,43
+214,Switzerland,瑞士,130,192
+215,Trinidad and Tobago,特立尼达和多巴哥,158,198
+216,Tromelin Island,托洛姆林岛,466,0
+217,Thailand,泰国,102,202
+218,Tajikistan,塔吉克斯坦,100,125
+219,Turks and Caicos Islands,特克斯和凯科斯群岛（英国）,463,104
+220,Tonga,汤加,285,200
+221,Togo,多哥,228,242
+222,Sao Tome and Principe,圣多美和普林西比,18,32
+223,Tunisia,突尼斯,135,497
+224,Turkey,土耳其,151,179
+225,Tuvalu,图瓦卢,415,367
+226,"Taiwan, Province of China",中国台湾,238,48
+227,Turkmenistan,土库曼斯坦,7,236
+228,"Tanzania, United Republic of",坦桑尼亚,269,453
+229,Uganda,乌干达,189,3
+230,United Kingdom,英国,8,36
+231,Ukraine,乌克兰,378,479
+232,Burkina Faso,布基纳法索,101,197
+233,Uruguay,乌拉圭,64,498
+234,Uzbekistan,乌兹别克斯坦,196,373
+235,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,97,49
+236,Venezuela,委内瑞拉,399,101
+237,"Virgin Islands, British",英属维尔京群岛（英国）,15,223
+238,Viet Nam,越南,228,198
+239,"Virgin Islands, U.S.",美属维尔京群岛,496,254
+240,Namibia,纳米比亚,374,176
+241,West Bank,约旦河西岸地区,390,201
+242,Wallis and Futuna,瓦利斯和富图纳群岛（法国）,50,263
+243,Western Sahara,西撒哈拉,107,252
+244,Wake Island,复活岛,279,140
+245,Samoa,萨摩亚,376,463
+246,Swaziland,斯威士兰,143,136
+247,Yemen,也门,366,158
+248,Zambia,赞比亚,43,168
+249,Zimbabwe,津巴布韦,170,19
+250,United States,美国,426,2
+251,Canada,加拿大,129,75

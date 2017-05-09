@@ -1,0 +1,8 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","HASC_1","CCN_1","CCA_1","TYPE_1","ENGTYPE_1","NL_NAME_1","VARNAME_1"
+1,225,"TWN","Taiwan",1,"Fujian","TW.FK",NA,"","Province","Province","<U+798F><U+5EFA>","Fukien"
+2,225,"TWN","Taiwan",2,"Kaohsiung","TW.KH",NA,"","Special Municipality","Special Municipality","<U+9AD8><U+96C4>",""
+3,225,"TWN","Taiwan",3,"New Taipei","TW.NT",NA,"","Special Municipality","Special Municipality","<U+65B0><U+5317>",""
+4,225,"TWN","Taiwan",4,"Taichung","TW.TG",NA,"","Special Municipality","Special Municipality","<U+53F0><U+4E2D>",""
+5,225,"TWN","Taiwan",5,"Tainan","TW.TN",NA,"","Special Municipality","Special Municipality","<U+53F0><U+5357>",""
+6,225,"TWN","Taiwan",6,"Taipei","TW.TP",NA,"","Special Municipality","Special Municipality","<U+53F0><U+5317>","Taibei|Taipé|Taipeh"
+7,225,"TWN","Taiwan",7,"Taiwan","TW.TA",NA,"","Province","Province","<U+53F0><U+7063>",""

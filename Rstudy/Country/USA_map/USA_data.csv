@@ -1,0 +1,52 @@
+STATE_NAME,Region(C),Sale,Revenue
+Washington,华盛顿州,780,447
+Montana,蒙大拿州,636,422
+Maine,缅因州,954,360
+North Dakota,北达科他州,947,426
+South Dakota,南达科他州,546,432
+Wyoming,怀俄明州,637,486
+Wisconsin,威斯康星州,826,262
+Idaho,爱达荷州,722,423
+Vermont,佛蒙特州,891,346
+Minnesota,明尼苏达州,605,288
+Oregon,俄勒冈州,679,188
+New Hampshire,新罕布什尔州,833,156
+Iowa,艾奥瓦州,619,294
+Massachusetts,马萨诸塞州,626,197
+Nebraska,内布拉斯加州,850,245
+New York,纽约州,881,296
+Pennsylvania,宾夕法尼亚州,984,218
+Connecticut,康涅狄格州,941,260
+Rhode Island,罗得岛州,613,258
+New Jersey,新泽西州,616,453
+Indiana,康涅狄格州,751,385
+Nevada,内华达州,651,381
+Utah,犹他州,854,201
+California,加利福尼亚州,747,281
+Ohio,俄亥俄州,563,425
+Illinois,伊利诺伊州,697,327
+District of Columbia,哥伦比亚特区,882,237
+Delaware,特拉华州,680,127
+West Virginia,西弗吉尼亚州,593,418
+Maryland,马里兰州,725,461
+Colorado,科罗拉多州,769,307
+Kentucky,肯塔基州,701,227
+Kansas,堪萨斯州,751,130
+Virginia,弗吉尼亚州,698,274
+Missouri,密苏里州,545,279
+Arizona,亚利桑那州,545,291
+Oklahoma,俄克拉何马州,556,339
+North Carolina,北卡罗来纳州,810,366
+Tennessee,田纳西州,923,131
+Texas,德克萨斯州,847,151
+New Mexico,新墨西哥州,709,346
+Alabama,亚拉巴马州,644,380
+Mississippi,密西西比州,621,124
+Georgia,佐治亚州,510,180
+South Carolina,南卡罗来纳州,909,402
+Arkansas,阿肯色州,778,446
+Louisiana,路易斯安那州,724,321
+Florida,佛罗里达州,788,376
+Michigan,密歇根州,771,393
+Hawaii,夏威夷州,564,232
+Alaska,阿拉斯加州,910,235
