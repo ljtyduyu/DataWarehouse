@@ -1,0 +1,36 @@
+{"indy movies" :[
+	{
+	"name" : "Raiders of the Lost Ark",
+	"year" : 1981,
+	"actors" : {
+		"Indiana Jones": "Harrison Ford", 
+		"Dr. Ren Belloq": "Paul Freeman" 
+		},
+	"producers": ["Frank Marshall", "George Lucas", "Howard Kazanjian"],
+	"budget" : 18000000,
+	"academy_award_ve": true
+	},
+	{
+	"name" : "Indiana Jones and the Temple of Doom",
+	"year" : 1984,
+	"actors" : {
+		"Indiana Jones": "Harrison Ford", 
+		"Mola Ram": "Amish Puri"
+		},
+	"producers": ["Robert Watts"],
+	"budget" : 28170000,
+	"academy_award_ve": true
+	},
+	{
+	"name" : "Indiana Jones and the Last Crusade",
+	"year" : 1989,
+	"actors" : {
+		"Indiana Jones": "Harrison Ford", 
+		"Walter Donovan": "Julian Glover"
+		},
+	"producers": ["Robert Watts", "George Lucas"],
+	"budget" : 48000000,
+	"academy_award_ve": false
+	}]
+}
+

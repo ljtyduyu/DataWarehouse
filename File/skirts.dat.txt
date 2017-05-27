@@ -1,0 +1,51 @@
+Diameter of skirts at hem, 1866-1911, annual
+#see also beards.1
+#SEE MARIJA NORUSIS'S 1981 SPSS PRIMER FOR DETAILS AND
+#ADDITIONAL DATA EXTENDING BACK TO 1842 AND FORWARD TO 1953
+ SKIRTS
+  608.
+  617.
+  625.
+  636.
+  657.
+  691.
+  728.
+  784.
+  816.
+  876.
+  949.
+  997.
+ 1027.
+ 1047.
+ 1049.
+ 1018.
+ 1021.
+ 1012.
+ 1018.
+  991.
+  962.
+  921.
+  871.
+  829.
+  822.
+  820.
+  802.
+  821.
+  819.
+  791.
+  746.
+  726.
+  661.
+  620.
+  588.
+  568.
+  542.
+  551.
+  541.
+  557.
+  556.
+  534.
+  528.
+  529.
+  523.
+  531.

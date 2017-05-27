@@ -1,0 +1,52 @@
+STATE_NAME,STATE_ABBR,Count,Clinton,Trump,Results
+Alabama,AL,9,0.346,0.629,T
+Alaska,AK,3,0.377,0.529,T
+Arizona,AZ,11,0.454,0.495,T
+Arkansas,AR,6,0.338,0.604,T
+California,CA,55,0.615,0.332,C
+Colorado,CO,9,0.473,0.44,C
+Connecticut,CT,7,0.545,0.412,C
+Delaware,DE,3,0.534,0.419,C
+District of Columbia,DC,3,0.928,0.041,C
+Florida,FL,29,0.478,0.491,T
+Georgia,GA,16,0.456,0.513,T
+Hawaii,HI,4,0.622,0.3,C
+Idaho,ID,4,0.276,0.592,T
+Illinois,IL,20,0.554,0.394,C
+Indiana,IN,11,0.379,0.572,T
+Iowa,IA,6,0.422,0.518,T
+Kansas,KS,6,0.362,0.572,T
+Kentucky,KY,8,0.327,0.625,T
+Louisiana,LA,8,0.384,0.581,T
+Maine,ME,4,0.479,0.452,C
+Maryland,MD,10,0.605,0.353,C
+Massachusetts,MA,11,0.608,0.335,C
+Michigan,MI,16,0.473,0.476,T
+Minnesota,MN,10,0.469,0.454,C
+Mississippi,MS,6,0.397,0.583,T
+Missouri,MO,10,0.38,0.571,T
+Montana,MT,3,0.36,0.565,T
+Nebraska,NE,5,0.34,0.603,T
+Nevada,NV,6,0.479,0.455,C
+New Hampshire,NH,4,0.476,0.473,C
+New Jersey,NJ,14,0.55,0.418,C
+New Mexico,NM,5,0.483,0.4,C
+New York,NY,29,0.588,0.375,C
+North Carolina,NC,15,0.467,0.505,T
+North Dakota,ND,3,0.278,0.641,T
+Ohio,OH,18,0.435,0.521,T
+Oklahoma,OK,7,0.289,0.653,T
+Oregon,OR,7,0.519,0.409,C
+Pennsylvania,PA,20,0.476,0.488,T
+Rhode Island,RI,4,0.551,0.401,C
+South Carolina,SC,9,0.408,0.549,T
+South Dakota,SD,3,0.317,0.615,T
+Tennessee,TN,11,0.349,0.611,T
+Texas,TX,38,0.434,0.526,T
+Utah,UT,6,0.278,0.466,T
+Vermont,VT,3,0.611,0.326,C
+Virginia,VA,13,0.499,0.45,C
+Washington,WA,12,0.556,0.379,C
+West Virginia,WV,5,0.265,0.687,T
+Wisconsin,WI,10,0.469,0.479,T
+Wyoming,WY,3,0.225,0.701,T

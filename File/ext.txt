@@ -1,0 +1,1694 @@
+﻿
+数据库
+DBA
+ActiveX 数据对象
+ActiveX Data Objects
+ActiveX 数据对象多维ADO MD
+ActiveX Data Objects
+Multidimensional
+ADO MD
+ADO
+ADO
+ADO MD
+ADO MD
+安全标识号
+SID
+Security Identifier
+SID
+暗示性权限
+implied permission
+按位运算
+bitwise operation
+安装程序初始化文件
+Setup initialization file
+ANSI
+ANSI
+ANSI 到 OEM 转换
+ANSI to OEM conversion
+API
+API
+API 服务器游标
+API server cursor
+半加法度量
+semiadditive measure
+绑定
+binding
+保存点
+savepoint
+保存与转发数据库
+store-and-forward database
+bcp 实用工具
+bcp utility
+bcp 文件
+bcp files
+被动语态
+passive voice
+备份
+backup
+备份集
+backup set
+备份媒体
+backup media
+备份设备
+backup device
+备份文件
+backup file
+备注
+memo
+本地登录标识
+local login identification
+本地订阅
+local subscription
+本地多维数据集
+local cube
+本地分发服务器
+local Distributor
+本地服务器
+local server
+本地组
+local group
+本机格式
+native format
+比较级
+comparative form
+变量
+variables
+编写复制脚本
+replication scripting
+表
+table
+表达式
+expression
+表格格式数据流
+TDS
+tabular data stream
+TDS
+表级约束
+table-level constraint
+标量聚合
+scalar aggregate
+表扫描
+table scan
+标识符
+identifier
+标识列
+identity column
+标识属性
+identity property
+表锁
+table lock
+标准安全机制
+standard security
+别名
+alias
+别名
+nickname
+bigint 数据类型
+bigint data type
+binary 数据类型
+binary data type
+并发
+concurrency
+bit 数据类型
+bit data type
+BLOB
+BLOB
+布尔型
+Boolean
+不感知游标
+insensitive cursor
+不规则动词
+irregular verb
+不规则名词
+irregular noun
+不规则形式类型
+irregular form type
+不规则形式
+irregular form
+不均衡层次结构
+unbalanced hierarchy
+不可重复读取
+nonrepeatable read
+不齐整层次结构
+ragged hierarchy
+步骤对象
+step object
+参照键
+referencing key
+操作
+action
+层次结构
+hierarchy
+插入查询
+Insert query
+插入值查询
+Insert Values query
+查询优化器
+query optimizer
+差异数据库备份
+differential database backup
+查找表
+lookup table
+常规多维数据集
+regular cube
+常规维度
+regular dimension
+常量
+constant
+超大型维度
+very large dimension
+超文本标记语言
+HTML
+Hypertext Markup Language
+HTML
+char 数据类型
+char data type
+CHECK 约束
+CHECK constraints
+成员
+member
+成员变量
+member variable
+成员键列
+member key column
+成员名列
+member name column
+成员属性
+member property
+成员委派
+member delegation
+成员组
+member group
+持续性
+persistence
+冲突解决策略
+resolution strategy
+触发器
+trigger
+处理
+process
+初始快照
+initial snapshot
+初始媒体
+initial media
+传递顺序
+pass order
+串联
+concatenation
+垂直分区
+vertical partitioning
+垂直筛选
+vertical filtering
+磁带备份
+tape backup
+词性
+parts of speech
+CLI
+CLI
+COM
+COM
+COM 结构化存储文件
+COM-structured storage file
+CPU 忙
+CPU busy
+存储过程
+stored procedure
+存档文件
+archive file
+错误日志
+error log
+错误状态号
+error state number
+cursor 数据类型
+cursor data type
+大级别
+large level
+代词
+pronoun
+代码页
+code page
+单用户模式
+single-user mode
+datetime 数据类型
+datetime data type
+DBCS
+DBCS
+DCL
+DCL
+DDL
+DDL
+decimal 数据类型
+decimal data type
+登录安全模式
+login security mode
+登录帐户
+login
+account
+递归分区
+recursive partitioning
+调用级接口
+CLI
+call-level interface
+CLI
+定位更新
+positioned update
+订阅
+subscribe
+订阅
+subscription
+订阅服务器
+Subscriber
+订阅服务器
+subscribing server
+订阅数据库
+subscription database
+DML
+DML
+动词
+verb
+动词句式
+verb phrasing
+动态恢复
+dynamic recovery
+动态快照
+dynamic snapshot
+动态筛选
+dynamic filter
+动态 SQL 语句
+dynamic SQL statements
+动态锁定
+dynamic locking
+动态游标
+dynamic cursor
+DRI
+DRI
+DSN
+DSN
+DTS 包
+DTS package
+DTS 包模板
+DTS package template
+独立
+autonomy
+度量
+measurement
+度量值
+measure
+短语
+phrase
+单元
+cell
+单元集
+cellset
+队列
+queue
+对象
+object
+对象变量
+object variable
+对象标识符
+object identifier
+对象权限
+object permission
+对象所有者
+object owner
+对象相关性
+object dependencies
+多重继承
+multiple inheritance
+多对多关系
+many-to-many relationship
+多对一关系
+many-to-one relationship
+多实例
+multiple instances
+多维表达式
+MDX
+Multidimensional Expressions
+MDX
+多维结构
+multidimensional structure
+多维 OLAP
+MOLAP
+multidimensional OLAP
+MOLAP
+多维数据集
+cube
+多维数据集角色
+cube role
+多维数据集文件
+cube file
+多线程服务器应用程序
+multithreaded server application
+多用户
+multiuser
+English Query
+English Query
+English Query 应用程序
+English Query application
+二进制大对象
+binary large object
+发布
+publication
+发布保持期
+publication retention period
+发布表
+publishing table
+发布服务器
+Publisher
+发布服务器
+publishing server
+发布数据库
+publication database
+发生器
+producer
+返回参数
+return parameters
+自反关系
+reflexive relationship
+范围查询
+range query
+方法
+method
+废除
+revoke
+非聚集索引
+nonclustered index
+非叶
+nonleaf
+非叶成员
+nonleaf member
+分布式查询
+distributed query
+分段
+segmentation
+分发
+distribute
+分发保持期
+distribution retention period
+分发服务器
+Distributor
+分发数据库
+distribution database
+分隔符
+delimiter
+分类
+classification
+分区
+partition
+分区
+partitioning
+分析服务器
+Analysis server
+FIPS
+FIPS
+FK
+FK
+float 数据类型
+float data type
+副词
+adverb
+父代
+parent
+复述
+restatement
+服务器名称
+server name
+服务器游标
+server cursor
+复制
+replication
+复制冲突查看器
+Replication Conflict Viewer
+复制的数据
+replicated data
+复制监视器
+Replication Monitor
+复制拓扑
+replication topology
+干扰词
+noise word
+感知游标
+sensitive cursor
+隔离级别
+isolation level
+跟踪文件
+trace file
+更改脚本
+change script
+更新
+update
+更新锁
+update lock
+更新统计
+update statistics
+更新查询
+Update query
+工程
+project
+工具
+tool
+共享锁
+shared lock
+共享维度
+shared dimension
+固定服务器角色
+fixed server role
+固定数据库角色
+fixed database role
+关键字
+keyword
+关系
+relationship
+关系
+relationship
+关系对象
+relationship object
+关系类型
+relationship type
+关系 OLAP
+ROLAP
+relational OLAP
+ROLAP
+关系数据库
+relational database
+关系数据库管理系统
+RDBMS
+relational database management system
+RDBMS
+高速缓存老化数据清除
+cache aging
+规范化规则
+normalization rules
+规则
+rule
+规则
+rule
+滚动
+scroll
+过程缓存
+procedure cache
+国际标准化组织
+ISO
+International Organization for Standardization
+ISO
+国际电子技术委员会
+IEC
+International Electrotechnical Commission
+IEC
+过适
+overfitting
+函数
+function
+行
+row
+行集
+rowset
+行聚合函数
+row aggregate function
+行筛选
+row filter
+行锁
+row lock
+合并
+merge
+合并复制
+merge replication
+核心
+kernel
+HOLAP
+HOLAP
+后代
+descendant
+候选键
+candidate key
+HTML
+HTML
+幻像
+phantom
+恢复间歇
+recovery interval
+恢复日志文件
+redo log file
+回滚
+roll back
+回写
+write back
+会话
+session
+混合模式
+Mixed Mode
+混合 OLAP
+HOLAP
+hybrid OLAP
+HOLAP
+活动语句
+active statement
+活锁
+livelock
+IEC
+IEC
+image 数据类型
+image data type
+int
+integer 数据类型
+int
+integer data type
+IPC
+IPC
+ISO
+ISO
+ISQL
+ISQL
+结果
+result
+级
+rank
+基本数据类型
+base data type
+基表
+base table
+级别
+level
+级别层次结构
+level hierarchy
+集成安全性
+integrated security
+基错
+underlying table
+级联更新
+cascading update
+级联删除
+cascading delete
+记录
+record
+记录集
+recordset
+机器 DSN
+machine DSN
+即时更新
+immediate updating
+即时更新订阅
+immediate updating subscriptions
+即时更新订阅服务器
+immediate updating Subscribers
+计算公式
+calculation formula
+计算列
+calculated column
+计算列
+computed column
+计算成员
+calculated member
+计算字段
+calculated field
+计算子多维数据集
+calculation subcube
+计算传递
+calculation pass
+计算条件
+calculation condition
+架构
+schema
+架构行集
+schema rowset
+加密
+encryption
+加密触发器
+encrypted trigger
+加载项
+add-in
+键
+key
+检查点
+checkpoint
+键范围锁
+key range lock
+键集驱动游标
+keyset-driven cursor
+间接宾语
+indirect object
+键列
+key column
+脚本
+script
+交叉表查询
+crosstab query
+交互式结构化查询语言
+ISQL
+interactive structured query language
+ISQL
+介词
+preposition
+介词句式
+preposition phrasing
+结构化查询语言
+SQL
+Structured Query Language
+SQL
+结构化存储文件
+structured storage file
+结果集
+result set
+接口
+interface
+接口含义
+interface implication
+进程间通讯
+IPC
+interprocess communication
+IPC
+近似搜索
+proximity search
+静态游标
+static cursor
+警报
+alert
+精度
+precision
+静态 SQL 语句
+static SQL statements
+镜像
+mirroring
+局部变量
+local variable
+聚合
+aggregation
+聚合
+aggregation
+聚合包装
+aggregation wrapper
+聚合查询
+aggregate query
+聚合函数
+aggregate function
+聚合前缀
+aggregation prefix
+聚集
+clustering
+聚集索引
+clustered index
+拒绝
+deny
+句式
+phrasing
+巨型维度
+huge dimension
+决策树
+decision tree
+角色
+role
+角色
+role
+决策支持
+decision support
+均衡层次结构
+balanced hierarchy
+开放式数据服务
+ODS
+Open Data Services
+ODS
+开放式数据库连接
+ODBC
+Open Database Connectivity
+ODBC
+开放信息模型
+OIM
+Open Information Model
+OIM
+可串行
+serializable
+可更改维度
+changing dimension
+客户端应用程序
+client application
+客户端游标
+client cursor
+可再次使用的书签
+reusable bookmark
+可支持 Internet 的
+Internet-enabled
+可转换订阅
+transformable subscription
+空闲时间
+idle time
+控制流语言
+control-of-flow language
+控制中断报表
+control-break report
+库
+library
+块
+blocks
+快照代理程序
+Snapshot Agent
+快照代理程序实用工具
+Snapshot Agent utility
+快照复制
+snapshot replication
+快照游标
+snapshot cursor
+扩展盘区
+extent
+扩展存储过程
+extended stored procedure
+来宾
+guest
+LCID
+LCID
+粒度
+granularity
+联邦信息处理标准
+FIPS
+Federal Information Processing Standard
+FIPS
+连词
+conjunction
+联合查询
+Union query
+联接
+join
+联机重做日志
+online redo log
+联机分析处理
+OLAP
+online analytical processing
+OLAP
+联机事务处理
+OLTP
+online transaction processing
+OLTP
+连接
+connection
+联接表
+join table
+连接表
+junction table
+链接表
+linked table
+链接表
+linking table
+链接多维数据集
+linked cube
+链接服务器
+linked server
+联接列
+join column
+联接路径
+join path
+联接筛选
+join filter
+联接条件
+join condition
+联接运算符
+join operator
+联接字段
+join field
+两阶段提交
+two-phase commit
+列
+column
+列级排序规则
+column-level collation
+列级约束
+column-level constraint
+列筛选
+column filter
+临时表
+temporary table
+临时存储过程
+temporary stored procedure
+浏览模式
+browse mode
+流水游标
+firehose cursor
+流水游标
+firehose cursors
+逻辑名称
+logical name
+逻辑运算符
+logical operators
+MAPI
+MAPI
+master 数据库
+master database
+MDX
+MDX
+枚举
+enumeration
+媒体集
+media set
+媒体家族
+media family
+媒体描述
+media description
+媒体名称
+media name
+媒体首部
+media header
+密度
+density
+美国国家标准学会
+ANSI
+American National Standards Institute
+ANSI
+名称句式
+name phrasing
+名词
+noun
+命令关系
+command relationship
+命名别名
+aliasing
+命名管道
+named pipe
+命名关系
+naming relationship
+命名集
+named set
+命名实例
+named instance
+模块
+module
+默认成员
+default member
+默认结果集
+default result set
+默认实例
+default instance
+默认数据库
+default database
+默认语言
+default language
+默认约束
+DEFAULT constraint
+默认
+default
+模型
+model
+模型相关性
+model dependency
+model 数据库
+model database
+MOLAP
+MOLAP
+money 数据类型
+money data type
+目的对象
+destination object
+目标对象
+target object
+目标分区
+target partition
+nchar 数据类型
+nchar data type
+内部标识符
+internal identifier
+内联接
+inner join
+内置函数
+built-in functions
+Net-Library
+Net-Library
+匿名订阅
+anonymous subscription
+niladic 函数
+niladic functions
+ntext 数据类型
+ntext data type
+NULL
+NULL
+nvarchar 数据类型
+nvarchar data type
+ODBC
+ODBC
+ODBC 驱动程序
+ODBC driver
+ODBC 数据源
+ODBC data source
+ODS
+ODS
+OIM
+OIM
+OLAP
+OLAP
+OLE DB
+OLE DB
+OLE DB 使用者
+OLE DB consumer
+OLE DB? 提供程序
+OLE DB provider
+OLE 自动化对象
+OLE Automation objects
+OLE 自动化服务器
+OLE Automation server
+OLE 自动化控制器
+OLE Automation controller
+OLTP
+OLTP
+排它锁
+exclusive lock
+排序次序
+sort order
+排序规则
+collation
+培训数据集
+training data set
+批处理
+batch
+批注属性
+annotational property
+平展行集
+flattened rowset
+平展界面
+flattened interface
+PK
+PK
+pubs 数据库
+pubs database
+起始对象
+origin object
+前滚
+roll forward
+嵌套表
+nested table
+嵌套查询
+nested query
+前缀长度
+prefix length
+前缀搜索
+prefix search
+前缀字符
+prefix characters
+强制订阅
+push subscription
+切片
+slice
+请求订阅
+pull subscription
+求解次序
+solve order
+区域设置
+locale
+区域设置标识符
+LCID
+locale identifier
+LCID
+全局变量
+global variable
+全局订阅
+global subscriptions
+全局规则
+global rule
+全局默认值
+global default
+全局属性
+global properties
+全文查询
+full-text query
+全文服务
+full-text service
+全文目录
+full-text catalog
+全文启用
+full-text enabling
+全文索引
+full-text index
+RDBMS
+RDBMS
+real 数据类型
+real data type
+任务
+task
+任务对象
+task object
+RI
+RI
+日志文件
+log file
+ROLAP
+ROLAP
+RTIM
+RTIM
+SELECT
+SELECT
+SELECT
+SELECT
+筛选
+filter
+筛选
+filtering
+删除查询
+Delete query
+设备
+device
+深化/浅化
+drill down/drill up
+身份验证
+authentication
+生成表查询
+Make Table query
+声明引用完整性
+DRI
+declarative referential integrity
+DRI
+使非规范化
+denormalize
+时间维度
+time dimension
+事例
+case
+实例
+instance
+事例集
+case set
+事例键
+case key
+示例数据
+sample data
+事实
+fact
+事实数据表
+fact table
+实体
+entity
+实体完整性
+entity integrity
+视图
+view
+视图生成
+view generation
+事务
+transaction
+事务处理
+transaction processing
+事务回滚
+transaction rollback
+事务日志
+transaction log
+实用工具
+utility
+授权
+authorization
+授权
+grant
+数据爆炸
+data explosion
+数据仓库
+data warehouse
+数据操作语言
+DML
+data manipulation language
+DML
+数据成员
+data member
+数据抽取
+data pump
+数据定义
+data definition
+数据定义查询
+data-definition query
+数据定义语言
+DDL
+data definition language
+DDL
+数据关系图
+database diagram
+数据集
+dataset
+数据集市
+data mart
+数据控制语言
+DCL
+Data Control Language
+DCL
+数据库
+database
+数据库语言
+database language
+数据库对象
+database object
+数据库对象
+database object
+数据库架构
+database schema
+数据库工程
+database project
+数据库脚本
+database script
+数据库角色
+database role
+数据库目录
+database catalog
+数据库所有者
+database owner
+数据库文件
+database file
+数据块
+data block
+数据类型
+data type
+数据连接
+data connection
+数据清理
+data scrubbing
+数据透视
+pivot
+数据完整性
+data integrity
+数据文件
+data file
+数据修改
+data modification
+数据沿袭
+data lineage
+数据源
+data source
+数据源
+data source
+数据字典视图
+data dictionary view
+数据字典
+data dictionary
+输入成员
+input member
+输入集
+input set
+输入源
+input source
+事务复制
+transactional replication
+属性
+property
+属性页
+property pages
+数值表达式
+numeric expression
+刷新数据
+refresh data
+双字节字符集
+DBCS
+double-byte character set
+DBCS
+水平分区
+horizontal partitioning
+数据源名称
+DSN
+data source name
+DSN
+顺序关系
+sequenced relationship
+顺序集合
+sequenced collection
+死锁
+deadlock
+SID
+SID
+smalldatetime 数据类型
+smalldatetime data type
+smallint 数据类型
+smallint data type
+smallmoney 数据类型
+smallmoney data type
+搜索条件
+search condition
+SQL
+SQL
+SQL 表达式
+SQL expression
+SQL 查询
+SQL query
+SQL 排序规则
+SQL collation
+SQL Server 登录
+SQL Server login
+SQL Server 角色
+SQL Server role
+SQL Server 身份验证
+SQL Server Authentication
+SQL Server 事件转发服务器
+SQL Server Event Forwarding Server
+SQL Server 用户
+SQL Server user
+SQL 数据库
+SQL database
+SQL 邮件
+SQL Mail
+SQL 语句
+SQL statement
+sql_variant 数据类型
+sql_variant data type
+SQL-92
+SQL-92
+碎片
+fragmentation
+锁
+lock
+锁升级
+lock escalation
+索引
+index
+索引 OR 运算
+index ORing
+索引页
+index page
+所有格
+possessive case
+table 数据类型
+table data type
+填充因子
+fill factor
+TDS
+TDS
+特殊连接器名称
+ad hoc connector name
+特性
+attribute
+特征
+trait
+特征句式
+trait phrasing
+tempdb 数据库
+tempdb database
+text 数据类型
+text data type
+theta 联接
+theta join
+提供程序
+provider
+提交
+commit
+提取
+fetch
+timestamp 数据类型
+timestamp data type
+tinyint 数据类型
+tinyint data type
+同步
+synchronization
+同等联接
+equijoin
+同类数据
+homogeneous data
+通配符搜索
+wildcard search
+通配符字符
+wildcard characters
+同义词
+synonym
+Transact-SQL
+Transact-SQL
+Transact-SQL 游标
+Transact-SQL cursor
+Unicode
+Unicode
+Unicode 格式
+Unicode format
+Unicode 排序规则
+Unicode collation
+UNIQUE 约束
+UNIQUE constraints
+uniqueidentifier 数据类型
+uniqueidentifier data type
+varbinary 数据类型
+varbinary data type
+varchar 数据类型
+varchar data type
+挖掘模型
+mining model
+挖掘模型培训
+mining model training
+外表
+foreign table
+外键
+FK
+foreign key
+FK
+外联接
+outer join
+完整外部联接
+full outer join
+完整性约束
+integrity constraint
+谓词
+predicate
+维度
+dimension
+维度表
+dimension table
+维度层次结构
+dimension hierarchy
+为空性
+nullability
+未强制关系
+unenforced relationship
+唯一索引
+unique index
+位置
+position
+文件存储类型
+file storage type
+文件 DSN
+file DSN
+文件组
+filegroup
+问题
+question
+问题模板
+question template
+问题生成器
+Question Builder
+问题文件
+.eqq
+question file
+.eqq
+文件
+file
+WHERE 子句
+WHERE clause
+Windows 排序规则
+Windows collation
+Windows 身份验证
+Windows Authentication
+无 DSN 连接
+DSN-less connection
+物理读取
+physical reads
+物理名称
+physical name
+稀疏度
+sparsity
+系统表
+system tables
+系统存储过程
+system stored procedures
+系统管理员
+system administrator
+系统函数
+system functions
+系统目录
+system catalog
+系统数据库
+system databases
+线程
+thread
+显示计划
+Showplan
+显式事务
+explicit transaction
+相关子查询
+correlated subquery
+相关性
+dependencies
+项目
+article
+消息编号
+message number
+消息应用程序接口
+MAPI
+Messaging Application Programming Interface
+MAPI
+写启用
+write enable
+信任连接
+trusted connection
+信息模型
+information model
+星型架构
+star schema
+星型联接
+star join
+形容词句式
+adjective phrasing
+兄弟
+sibling
+序列
+sequence
+虚拟多维数据集
+virtual cube
+虚拟维度
+virtual dimension
+选择查询
+Select query
+选择列表
+select list
+雪花架构
+snowflake schema
+延迟
+latency
+严重级别
+severity level
+叶
+leaf
+页
+page
+叶成员
+leaf member
+页拆分
+page split
+叶级
+leaf level
+业务规则
+business rules
+已调度备份
+scheduled backup
+一对多关系
+one-to-many relationship
+一对一关系
+one-to-one relationship
+已发布数据
+published data
+异类数据
+heterogeneous data
+取模
+modulo
+意向锁
+intent lock
+隐性事务
+implicit transaction
+引用键
+referenced key
+引用完整性
+RI
+referential integrity
+RI
+应用程序接口
+API
+application programming interface
+API
+应用程序角色
+application role
+用户定义函数
+user-defined function
+用户定义函数
+user-defined function
+用户定义事件
+user-defined event
+用户定义数据类型
+user-defined data type
+用户数据库
+user database
+用户帐户
+user
+account
+用于 OLAP 的 OLE DB
+OLE DB for OLAP
+游标
+cursor
+游标库
+cursor library
+优化程序
+optimizer
+优化同步
+optimize synchronization
+右向外联接
+right outer join
+有序集
+ordered set
+域
+domain
+预测
+prediction
+语句权限
+statement permission
+域完整性
+domain integrity
+预写日志
+write-ahead log
+语义对象
+semantic object
+远程表
+remote table
+远程存储过程
+remote stored procedure
+远程登录标识
+remote login identification
+远程分发服务器
+remote Distributor
+远程分区
+remote partition
+远程服务器
+remote server
+远程数据
+remote data
+源对象
+source object
+源多维数据集
+source cube
+源分区
+source partition
+源和目标
+source and target
+元数据
+meta data
+源数据库
+source database
+源数据库
+source database
+原形
+root form
+延续媒体
+continuation media
+原子的
+atomic
+元组
+tuple
+跃点
+hop
+约束
+constraint
+再次发布
+republish
+再次发布者
+republisher
+脏读
+dirty read
+脏页
+dirty pages
+增量更新
+incremental update
+证书
+certificate
+整型
+integer
+值表达式
+value expression
+自动恢复
+automatic recovery
+直观合计
+visual total
+直接传递查询
+pass-through query
+直接传递语句
+pass-through statement
+直接对象
+direct object
+直接连接
+direct connect
+直接响应模式
+direct response mode
+只进游标
+forward-only cursor
+知识库
+repository
+知识库
+repository
+知识库对象
+repository object
+知识库类型信息模型
+RTIM
+Repository Type Information Model
+RTIM
+知识库 SQL 架构
+Repository SQL schema
+知识库引擎
+repository engine
+轴
+axis
+主表
+primary table
+主定义位置
+master definition site
+主动语态
+active voice
+主键
+PK
+primary key
+PK
+主维度表
+primary dimension table
+主位置
+master site
+主文件
+master file
+祖先
+ancestor
+主语
+subject
+转储
+dump
+转储文件
+dump file
+转换
+transformation
+转义符
+escape character
+专用维度
+private dimension
+专有名词
+proper noun
+子查询
+subquery
+子代
+child
+字典条目
+dictionary entry
+自定义规则
+custom rule
+自定义汇总
+custom rollup
+字段
+field
+字段长度
+field length
+字段终止符
+field terminator
+字符串
+string
+字符串函数
+string functions
+字符集
+character set
+字符格式
+character format
+子集
+subset
+子集句式
+subset phrasing
+子句
+clause
+自联接
+self-join
+字生成
+word generation
+组合键
+composite key
+组合索引
+composite index
+组件对象模型
+COM
+Component Object Model
+COM
+钻取
+drill through
+最高级
+superlative form
+左向外联接
+left outer join
+作业
+job
+全部成员
+All member
+全部级别
+All level
+
